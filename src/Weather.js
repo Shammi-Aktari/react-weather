@@ -66,6 +66,7 @@ export default function Weather(props) {
         timeout={3000} //3 secs
       />
       <p>{message}</p>
+      <small><a href="https://github.com/Shammi-Aktari/react-weather">Open-source</a> coded by<a href="https://www.linkedin.com/in/shammiaktari/"> Shammi aktari</a></small>
     </div>
-  );
+  );  
 }
