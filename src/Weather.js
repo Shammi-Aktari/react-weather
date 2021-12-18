@@ -45,6 +45,7 @@ export default function Weather(props) {
         <ReactAnimatedWeather 
         icon= 'CLEAR_DAY'
         color= 'goldenrod'
+        size= {80}
         animate= {true}
         />
       <h1>Weather App</h1>
