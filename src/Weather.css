@@ -1,4 +1,40 @@
 .Weather-app {
-  display: flex;
-  justify-content: space-evenly;
+  background-color: rgb(245, 235, 245);
+  border-radius: 10px;
+  box-shadow: 1px 5px 10px violet;
+  padding: 80px 150px;
+  margin: 100px 200px;
+  color: purple;
+  font-weight: 900;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+img {
+  width: 40%;
+}
+.Weather-app input {
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+}
+
+.Weather-app .search {
+  padding: 10px 100px;
+}
+
+.Weather-app .search-button {
+  background: violet;
+}
+
+.Weather-app h1 {
+  color: rgb(90, 38, 90);
+  font-weight: 900;
+}
+
+li {
+  list-style: none;
 }

@@ -24,22 +24,6 @@
   color: white;
 }
 
-.App-weather {
-  background-color: rgb(245, 235, 245);
-  border-radius: 10px;
-  box-shadow: 1px 5px 10px violet;
-  padding: 100px 90px;
-}
-
-.App-weather input {
-  padding: 10px 30px;
-  border: none;
-  border-radius: 10px;
-}
-
-.App-weather .search {
-  padding: 10px 100px;
-}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
